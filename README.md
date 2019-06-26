@@ -80,3 +80,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
      * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
 
      * Edit the text in random.txt to test out the feature for movie-this and concert-this.
+
+
+
+[.images]
